@@ -1,0 +1,13 @@
+export const GAME_WIDTH = 960;
+export const GAME_HEIGHT = 640;
+export const WORLD_HEIGHT = 2200;
+export const SEA_LEVEL = 210;
+export const SEA_FLOOR = WORLD_HEIGHT - 190;
+export const PLAYER_SPEED = 230;
+export const BOAT_SPEED = 250;
+export const VACUUM_RANGE = 160;
+export const VACUUM_POWER = 0.42;
+export const NET_RANGE = 360;
+export const NET_FLIGHT_TIME = 680;
+export const BASE_OXYGEN = 100;
+export const BASE_PRESSURE_DEPTH = 760;
